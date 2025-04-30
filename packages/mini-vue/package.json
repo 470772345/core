@@ -1,0 +1,11 @@
+{
+  "name": "@vue/mini-vue",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "types": "index.ts",
+  "exports": {
+    ".": {
+      "import": "./index.ts"
+    }
+  }
+}
